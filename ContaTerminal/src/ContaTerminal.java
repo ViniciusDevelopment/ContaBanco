@@ -20,7 +20,7 @@ public class ContaTerminal {
         Saldo = sc.nextDouble();
 
 
-        System.out.printf("O nome e: %s | A agencia e %s | O numero da conta e: %d | O saldo da conta e: %f", NomeCliente, Agencia, Numero, Saldo);
+        System.out.printf("Ola %s, obrigado por criar uma conta em nosso banco, sua agencia e: %s, conta %d e seu saldo %f", NomeCliente, Agencia, Numero, Saldo);
 
 
 
